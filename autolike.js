@@ -1,16 +1,8 @@
 
 function hasBlacklistKeywords(bio) {
 		var blacklist = [
-			'ladyboy',
-			'lady boy',
-			'not a lady',
-			'not lady',
-			'not a girl',
-			'not girl',
-			'trans',
-			'shemale',
-			'chubby',
-			//' lb ',
+			'yourblacklist', //examples
+			'your blacklist',
 		];
 
 		for (item of blacklist) {
