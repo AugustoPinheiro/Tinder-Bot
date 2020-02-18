@@ -17,4 +17,4 @@ Run the script
 
 - [ ] Need to accept automatically permissions except for
 - [ ] Need to add ANN for fake pics
-- [ ]TODO: Need to add RNN for fake messages
+- [ ] TODO: Need to add RNN for fake messages
