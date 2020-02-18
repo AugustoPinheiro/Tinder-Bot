@@ -11,3 +11,10 @@ And then depending on the website, go to https://tinder.com/app/recs or to https
 Open the browser's console
 Copy and paste the code from autolike.js to console
 Run the script
+
+
+## TO-DO
+
+- [ ] Need to accept automatically permissions except for
+- [ ] Need to add ANN for fake pics
+- [ ]TODO: Need to add RNN for fake messages
