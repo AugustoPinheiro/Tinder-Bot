@@ -1,4 +1,4 @@
-# Tinder-BotTinder
+# Tinder-BotTinder [DEPRECATED]
 
 Script for automatic like on Tinder / OkCupid Web's profiles.
 
