@@ -18,3 +18,6 @@ Run the script
 - [ ] Need to accept automatically permissions except for
 - [ ] Need to add ANN for fake pics
 - [ ] TODO: Need to add RNN for fake messages
+- [ ] Need to add socket puppetry (VPNs solutions? several accounts?) - :D
+
+
